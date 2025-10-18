@@ -4,8 +4,8 @@
  */
 package com.nc.max.controller;
 
-import com.fx.swing.tools.LayoutFunctions;
 import com.nc.max.Globals;
+import com.nc.max.tools.LayoutFunctions;
 import java.awt.BorderLayout;
 import java.awt.Component;
 import java.awt.GridBagConstraints;
